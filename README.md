@@ -1,4 +1,4 @@
-# 🚀 Rafhi's Portfolio: Data Science & AI
+# 🚀 Rafhi's Portfolio: Data Science, Data Analyst & AI
 
 **Hi, I'm Rafhiromadoni Sopandi!** 👋
 I am a Data Professional passionate about solving real-world problems using data.
