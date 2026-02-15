@@ -52,11 +52,11 @@ This repository contains **10 Projects** categorized by three major roles in the
 
 ### 🌐 Live Demos (Deployment)
 *Try the AI models directly in your browser without coding:*
-* **ChurnGuard App:** [Link ke Hugging Face Space Anda]
-* **SmartLib App:** [Link ke Hugging Face Space Anda] *(Coming Soon)*
+* **ChurnGuard App:** [Link]  *(Coming Soon)*
+* **SmartLib App:** [Link] *(Coming Soon)*
 
 ---
 
 ### 📫 Contact
-* **LinkedIn:** [Link LinkedIn Anda]
-* **Email:** [Email Anda]
+* **LinkedIn:** [Link ]
+* **Email:** [rafhiromadhoni07@gmail.com]
