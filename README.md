@@ -53,7 +53,7 @@ This repository contains **10 Projects** categorized by three major roles in the
 
 ### 🌐 Live Demos (Deployment)
 *Try the AI models directly in your browser without coding:*
-* **ChurnGuard App:** [[Link](https://huggingface.co/spaces/rafhiromadoni/ChurnGuard-Retention-AI)]  
+* **ChurnGuard App:** [(https://huggingface.co/spaces/rafhiromadoni/ChurnGuard-Retention-AI)]  
 * **SmartLib App:** [https://huggingface.co/spaces/rafhiromadoni/SmartLib-Recommender] 
 * **FloraLens App:** [https://huggingface.co/spaces/rafhiromadoni/FloraLens]
 * **CryptoProphetForecasting App:** [https://huggingface.co/spaces/rafhiromadoni/CryptoProphet-Forecasting]
