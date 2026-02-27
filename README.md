@@ -58,5 +58,6 @@ This repository contains **10 Projects** categorized by three major roles in the
 ---
 
 ### 📫 Contact
-* **LinkedIn:** [Link ]
+* **HuggingFace:** .[(https://huggingface.co/rafhiromadoni)]
+* **LinkedIn:** [(https://www.linkedin.com/in/rafhiromadoni-sopandi-09496827a/)]
 * **Email:** [rafhiromadhoni07@gmail.com]
