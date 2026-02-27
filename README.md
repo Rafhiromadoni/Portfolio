@@ -58,6 +58,7 @@ This repository contains **10 Projects** categorized by three major roles in the
 * **FloraLens App:** [https://huggingface.co/spaces/rafhiromadoni/FloraLens]
 * **CryptoProphetForecasting App:** [https://huggingface.co/spaces/rafhiromadoni/CryptoProphet-Forecasting]
 * **DiabetesRiskAnalytics App:** [https://huggingface.co/spaces/rafhiromadoni/Diabetes-Risk-Analytics]
+* **MultimodalVisualQnA App:** [[https://huggingface.co/spaces/rafhiromadoni/Diabetes-Risk-Analytics](https://huggingface.co/spaces/rafhiromadoni/MultimodalVisualQnA)]
 ---
 
 ### 📫 Contact
