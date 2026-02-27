@@ -24,6 +24,7 @@ This repository contains **10 Projects** categorized by three major roles in the
 | **[🌸 FloraLens (CNN)](AI_01_FloraLens_Flower_Recognition.ipynb)** | Computer Vision | Automated flower species classification using **Convolutional Neural Networks (CNN)**. |
 | **[📈 CryptoProphet (LSTM)](AI_02_CryptoProphet_Bitcoin_LSTM.ipynb)** | Finance / Quant | Predicting Bitcoin price trends using **Long Short-Term Memory (LSTM)** Deep Learning. |
 | **[Dyslexia Handwriting](AI_03_Sentiment_Monitoring_System.ipynb)** | NLP | Automated public sentiment monitoring using Natural Language Processing techniques. |
+| **[VisionQuery (ViLT)](AI_04_VisionQuery_Multimodal_VQA.py)** | Multimodal AI | Visual Question Answering combining NLP & Vision to answer questions from images.. |
 
 ---
 
