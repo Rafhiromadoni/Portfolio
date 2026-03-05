@@ -1,5 +1,5 @@
 # 🎵 SonicGen: AI Audio Generator (Deployment Only)
-*(Ganti judul jika ini VisualQNA)*
+
 
 Berbeda dengan proyek lain di repositori ini yang berawal dari eksperimen di Google Colab, proyek ini adalah demonstrasi **Direct Deployment** untuk model Generative AI / Multimodal.
 
