@@ -2,7 +2,7 @@
 
 Proyek ini adalah sistem manajemen inventaris cerdas yang menggabungkan **Computer Vision** untuk deteksi stok otomatis dan **Time-Series Analysis** untuk prediksi kebutuhan barang (*Demand Forecasting*).
 
-🚀 **[KLIK DI SINI UNTUK DEMO LIVE] (https://huggingface.co/spaces/rafhiromadoni/IntelliStock-AI)**
+🚀 **[KLIK DI SINI UNTUK DEMO LIVE](https://huggingface.co/spaces/rafhiromadoni/IntelliStock-AI)**
 
 ## 📌 Fitur Utama
 * **AI Visual Scan:** Menggunakan arsitektur **YOLOv8** untuk mendeteksi dan menghitung jumlah stok barang dari input gambar secara real-time.
