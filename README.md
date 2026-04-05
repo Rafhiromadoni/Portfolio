@@ -27,7 +27,7 @@ This repository contains **13 Projects** categorized by three major roles in the
 | **[SonicGen](AI_04_SonicGen_Audio_Generator)** | `Audio Intelligence` | Implementation of the **MusicGen Transformer** model for audio synthesis. The system is capable of mapping text semantics into waveform representations to procedurally generate original music. | 
 | **[Visual Q&A](AI_05_Visual_QNA)** | `Computer Vision` | Implementation of the Vision-Language Model (VLM) architecture for advanced image understanding. Enables natural interaction between users and images through visual reasoning and context classification tasks. |
 | **[IntelliStock AI](AI_06_IntelliStock_Warehouse_AI)** | `Supply Chain` | End-to-End Multimodal System uses YOLOv8 for visual inventory and regression algorithms for stock demand forecasting (Demand Forecasting). |
-| **[NexusAI_Knowledge_Agent](AI_07_NexusAI_Knowledge_Agent)** | `Supply Chain` | End-to-End Multimodal System uses YOLOv8 for visual inventory and regression algorithms for stock demand forecasting (Demand Forecasting). |
+| **[NexusAI_Knowledge_Agent](AI_07_NexusAI_Knowledge_Agent)** | `Enterprise AI & NLP` | RAG (Retrieval-Augmented Generation) based Enterprise Assistant System using LLM (Qwen 2.5) for analysis of hundreds of pages of documents (PDF/Word/CSV) and automation of business drafting (Email/Proposal) contextually.. |
 
 ##  2. Data Scientist Projects
 *Focus: Predictive Modeling, Statistical Analysis, and Business Problem Solving.*
