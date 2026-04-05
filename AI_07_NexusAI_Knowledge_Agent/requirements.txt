@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-text-splitters
+chromadb
+pypdf
+sentence-transformers
+gradio
+docx2txt
