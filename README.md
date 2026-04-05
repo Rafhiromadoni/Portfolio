@@ -61,7 +61,11 @@ This repository contains **13 Projects** categorized by three major roles in the
 * **MultimodalVisualQnA App:** [https://huggingface.co/spaces/rafhiromadoni/MultimodalVisualQnA]
 * **SonicGen App:** [https://huggingface.co/spaces/rafhiromadoni/SonicGen]
 * **RealEstate App:** [https://huggingface.co/spaces/rafhiromadoni/RealEstate]
-* **RealEstate App:** [https://huggingface.co/spaces/rafhiromadoni/RealEstate]
+* **SentimentMonitoringSystem_NLP App:** [https://huggingface.co/spaces/rafhiromadoni/SentimentMonitoringSystem_NLP]
+* **RaisinClassification App:** [https://huggingface.co/spaces/rafhiromadoni/Raisin-Classification]
+* **CanadaMigrationDashboard App:** [https://huggingface.co/spaces/rafhiromadoni/Canada-Migration-Dashboard]
+* **TwitterNetworkAnalysis App:** [https://huggingface.co/spaces/rafhiromadoni/Twitter-Network-Analysis]
+* **IntelliStockAI App:** [https://huggingface.co/spaces/rafhiromadoni/IntelliStock-AI]
 ---
 
 ###  Contact
