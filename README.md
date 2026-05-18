@@ -49,6 +49,7 @@ This repository contains **14 Projects** categorized by three major roles in the
 | **[ Canada Migration](DA_01_Canada_Migration_Dashboard.ipynb)** | Demography | Interactive dashboard visualizing 30 years of global migration trends to Canada. |
 | **[ Twitter Network Analysis](DA_02_Twitter_Network_Analysis.ipynb)** | Social Media | Analyzing viral conversations (#PeringatanDarurat) using **Graph Theory** & **NetworkX** to find key influencers. |
 | **[ Diabetes Risk Profiling](DA_03_Diabetes_Risk_Dashboard.ipynb)** | Healthcare | Identifying key health indicators for diabetes using statistical correlation & visualization. |
+| **[ E-Commerce Sales & Customer Behavior Analytics](DA_04_Ecommerce_Sales_Analytics)** | Python, SQL, Power BI | Sales KPI, delivery analysis, payment behavior, RFM customer segmentation |
 
 ---
 
