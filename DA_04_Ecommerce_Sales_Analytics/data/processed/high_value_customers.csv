@@ -1,0 +1,21 @@
+customer_unique_id,recency,frequency,monetary,R_score,F_score,M_score,RFM_score,RFM_total_score,customer_segment
+ef8d54b3797ea4db1d63f0ced6a906e9,133,1,30186.0,4,5,5,455,14,High Value Customer
+763c8b1c9c68a0229c42c9fc6f662b93,46,1,29099.52,5,3,5,535,13,High Value Customer
+c8460e4251689ba205045f3ea17884a1,22,4,27935.460000000003,5,5,5,555,15,High Value Customer
+eae0a83d752b1dd32697e0e7b4221656,127,2,25051.89,4,5,5,455,14,High Value Customer
+adfa1cab2b2c8706db21bb13c0a1beb1,89,1,19457.04,5,4,5,545,14,High Value Customer
+fff5eb4918b2bf4b2da476788d42051c,58,1,17069.760000000002,5,5,5,555,15,High Value Customer
+be825ddd3b40db3f91bf05b4e9435d56,79,1,12490.88,5,4,5,545,14,High Value Customer
+906a8a4ec9f3d4c3e64fa6d1c4fe6009,41,2,11881.01,5,5,5,555,15,High Value Customer
+c8ed31310fc440a3f8031b177f9842c3,18,1,11572.8,5,4,5,545,14,High Value Customer
+fe2b2f70f3dc31c23319ae1029eac77f,173,1,11531.41,4,5,5,455,14,High Value Customer
+5a494c648fde2d1ec4eb614274ea7159,174,2,9859.880000000001,4,5,5,455,14,High Value Customer
+ca9ff40e3d69e5ffc34a46ed9b91451c,151,1,9759.75,4,4,5,445,13,High Value Customer
+f0d3389b217aa61b5a66744ddd694cc3,178,1,9618.48,3,5,5,355,13,High Value Customer
+d687c16dcf223790dd97278b2cdbe240,211,1,9443.35,3,5,5,355,13,High Value Customer
+f9172a6495d46451776be8bc8e46032d,150,1,9212.980000000001,4,5,5,455,14,High Value Customer
+a229eba70ec1c2abef51f04987deb7a5,90,1,8891.0,5,4,5,545,14,High Value Customer
+910f0afb84bc778e856d3683c7e8a46a,33,1,8780.5,5,3,5,535,13,High Value Customer
+79dbe8f7d2cd77fc463cfb663ab1375c,23,1,8511.75,5,3,5,535,13,High Value Customer
+fb98136edc2c0f996bfad36a0c7e1306,124,1,8425.44,4,5,5,455,14,High Value Customer
+96e91c0dba30f7ff60c9acd47677c248,43,1,8108.64,5,3,5,535,13,High Value Customer
