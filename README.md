@@ -50,6 +50,7 @@ This repository contains **14 Projects** categorized by three major roles in the
 | **[ Twitter Network Analysis](DA_02_Twitter_Network_Analysis.ipynb)** | Social Media | Analyzing viral conversations (#PeringatanDarurat) using **Graph Theory** & **NetworkX** to find key influencers. |
 | **[ Diabetes Risk Profiling](DA_03_Diabetes_Risk_Dashboard.ipynb)** | Healthcare | Identifying key health indicators for diabetes using statistical correlation & visualization. |
 | **[ E-Commerce Sales & Customer Behavior Analytics](DA_04_Ecommerce_Sales_Analytics)** | Python, SQL, Power BI | Sales KPI, delivery analysis, payment behavior, RFM customer segmentation |
+| **[ Marketing A/B Testing Campaign Analysis](DA_05_Marketing_AB_Testing)** | Python, SQL, Power BI, Statistics | A/B testing, conversion rate, funnel analysis, campaign optimization |
 
 ---
 
