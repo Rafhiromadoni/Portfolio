@@ -1,0 +1,7 @@
+Metric,Value
+Control Conversion Rate,0.09817773793777856
+Test Conversion Rate,0.08640658672708183
+Z-statistic,-11.863488311496594
+P-value,1.8318117509100477e-32
+Significance Level,0.05
+Conclusion,Statistically significant difference. Control campaign performs better in purchase conversion.

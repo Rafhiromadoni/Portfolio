@@ -1,0 +1,15 @@
+group,funnel_stage,value
+Control,impressions,3290663.0
+Test,impressions,2237544.0
+Control,reach,2668082.0
+Test,reach,1604747.0
+Control,website_clicks,159527.0
+Test,website_clicks,180970.0
+Control,searches,66808.0
+Test,searches,72569.0
+Control,view_content,58354.0
+Test,view_content,55740.0
+Control,add_to_cart,39039.0
+Test,add_to_cart,26446.0
+Control,purchase,15662.0
+Test,purchase,15637.0
