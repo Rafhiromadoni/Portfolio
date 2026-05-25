@@ -1,0 +1,5 @@
+income_group,total_employees,total_attrition,attrition_rate
+Low Income,369,108,0.2926829268292683
+Medium Income,366,52,0.14207650273224043
+High Income,367,39,0.10626702997275204
+Very High Income,368,38,0.10326086956521739
