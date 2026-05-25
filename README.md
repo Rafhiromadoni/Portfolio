@@ -51,7 +51,7 @@ This repository contains **14 Projects** categorized by three major roles in the
 | **[ Diabetes Risk Profiling](DA_03_Diabetes_Risk_Dashboard.ipynb)** | Healthcare | Identifying key health indicators for diabetes using statistical correlation & visualization. |
 | **[ E-Commerce Sales & Customer Behavior Analytics](DA_04_Ecommerce_Sales_Analytics)** | Python, SQL, Power BI | Sales KPI, delivery analysis, payment behavior, RFM customer segmentation |
 | **[ Marketing A/B Testing Campaign Analysis](DA_05_Marketing_AB_Testing)** | Python, SQL, Power BI, Statistics | A/B testing, conversion rate, funnel analysis, campaign optimization |
-
+| **[ HR Employee Attrition & Workforce Analytics](DA_06_HR_Employee_Attrition_Analytics)** | Python, SQL, Power BI | Attrition analysis, workforce risk segmentation, HR retention insights |
 ---
 
 ###  Live Demos (Deployment)
