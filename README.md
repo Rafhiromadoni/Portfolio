@@ -2,7 +2,7 @@
 
 **Hi, I'm Rafhiromadoni Sopandi!** 
 I am a Data Professional passionate about solving real-world problems using data.
-This repository contains **14 Projects** categorized by three major roles in the industry: **AI Engineer**, **Data Scientist**, and **Data Analyst**.
+This repository contains **18 Projects** categorized by three major roles in the industry: **AI Engineer**, **Data Scientist**, and **Data Analyst**.
 
 ---
 
