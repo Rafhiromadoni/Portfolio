@@ -39,6 +39,7 @@ This repository contains **18 Projects** categorized by three major roles in the
 | **[ Smart Real Estate](DS_03_Real_Estate_Valuation.ipynb)** | PropTech | Property price valuation model using Regression algorithms and Random Forest. |
 | **[ Raisin Quality](DS_04_Raisin_Classification_Analysis.ipynb)** | Agriculture | Comparative analysis of classification models (KNN vs RF) for quality control. |
 | **[ Credit Risk Scoring (Loan Prediction)](DS_05_Credit_Risk_Scoring)** | Python, Scikit-learn, Streamlit | Loan default prediction, risk scoring, model evaluation, deployment app |
+| **[  Retail Sales Forecasting & Inventory Demand Prediction](DS_06_Retail_Sales_Forecasting)** | Python, Scikit-learn, Power BI, Streamlit | Time series forecasting, demand prediction, inventory planning |
 ---
 
 ##  3. Data Analyst Projects
