@@ -38,7 +38,7 @@ This repository contains **14 Projects** categorized by three major roles in the
 | **[ SmartLib Recommender](DS_02_SmartLib_Recommender.ipynb)** | E-Commerce | Hybrid Recommendation System combining **SVD (Collaborative)** and **Content-Based Filtering** to solve Cold-Start problems. |
 | **[ Smart Real Estate](DS_03_Real_Estate_Valuation.ipynb)** | PropTech | Property price valuation model using Regression algorithms and Random Forest. |
 | **[ Raisin Quality](DS_04_Raisin_Classification_Analysis.ipynb)** | Agriculture | Comparative analysis of classification models (KNN vs RF) for quality control. |
-
+| **[ Credit Risk Scoring (Loan Prediction)](DS_05_Credit_Risk_Scoring)** | Python, Scikit-learn, Streamlit | Loan default prediction, risk scoring, model evaluation, deployment app |
 ---
 
 ##  3. Data Analyst Projects
