@@ -40,7 +40,7 @@ This repository contains **18 Projects** categorized by three major roles in the
 | **[ Raisin Quality](DS_04_Raisin_Classification_Analysis.ipynb)** | Agriculture | Comparative analysis of classification models (KNN vs RF) for quality control. |
 | **[ Credit Risk Scoring (Loan Prediction)](DS_05_Credit_Risk_Scoring)** | Python, Scikit-learn, Streamlit | Loan default prediction, risk scoring, model evaluation, deployment app |
 | **[  Retail Sales Forecasting & Inventory Demand Prediction](DS_06_Retail_Sales_Forecasting)** | Python, Scikit-learn, Power BI, Streamlit | Time series forecasting, demand prediction, inventory planning |
-| **[AI Resume Screening & Multi-Industry Job Match Analyzer](DS_07_AI_Resume_Job_Match_Analyzer)** | Python, Streamlit, Scikit-learn, TF-IDF, Cosine Similarity, PyPDF, python-docx | | NLP-based resume screening app that compares candidate resumes with IT and non-IT job descriptions, ranks best-fit roles, detects matched and missing skills, and provides resume improvement recommendations.|
+| **[AI Resume Screening & Multi-Industry Job Match Analyzer](DS_07_AI_Resume_Job_Match_Analyzer)** | Python, Streamlit, Scikit-learn, TF-IDF, Cosine Similarity, PyPDF, python-docx | NLP-based resume screening app that compares candidate resumes with IT and non-IT job descriptions, ranks best-fit roles, detects matched and missing skills, and provides resume improvement recommendations.|
 ---
 
 ##  3. Data Analyst Projects
