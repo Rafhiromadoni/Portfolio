@@ -1,0 +1,153 @@
+### ROLE: Data Analyst
+CATEGORY: IT & Data
+DESCRIPTION:
+We are looking for a Data Analyst who can collect, clean, validate, analyze, and visualize business data to support operational and strategic decision-making. The candidate will work closely with business users, management, and technical teams to understand reporting needs, define KPIs, identify trends, and translate raw data into actionable insights.
+
+Responsibilities include extracting data from databases, performing data cleaning and transformation, building dashboards, creating recurring reports, analyzing performance metrics, identifying anomalies, preparing presentation materials, and communicating insights to stakeholders. The role also requires the ability to explain data findings clearly to both technical and non-technical audiences.
+
+Required skills include SQL, Python, Excel, Tableau, Power BI, data cleaning, data visualization, exploratory data analysis, statistical analysis, dashboard development, KPI monitoring, reporting, business intelligence, data quality checking, and stakeholder communication.
+
+Preferred skills include ETL, automation reporting, basic data modeling, business process understanding, data storytelling, and experience working with operational, sales, finance, customer, or performance data.
+
+### ROLE: Data Scientist
+CATEGORY: IT & Data
+DESCRIPTION:
+We are looking for a Data Scientist who can solve business problems using statistical analysis, machine learning, predictive modeling, and data-driven experimentation. The candidate will work with structured and unstructured data to discover patterns, build models, evaluate performance, and generate insights that support business decisions.
+
+Responsibilities include data preprocessing, feature engineering, exploratory data analysis, model training, model comparison, model evaluation, hyperparameter tuning, visualization, and communicating model results to stakeholders. The candidate should be able to explain model outputs and translate technical findings into business recommendations.
+
+Required skills include Python, SQL, Pandas, NumPy, Scikit-learn, statistics, machine learning, regression, classification, clustering, forecasting, feature engineering, model evaluation, data visualization, exploratory data analysis, and business problem solving.
+
+Preferred skills include deep learning, NLP, recommendation systems, time series forecasting, A/B testing, experiment design, deployment using Streamlit or API frameworks, and experience with model interpretation or explainable AI.
+
+### ROLE: Data Engineer
+CATEGORY: IT & Data
+DESCRIPTION:
+We are looking for a Data Engineer who can design, build, maintain, and optimize data pipelines and data infrastructure. The candidate will support analytics, reporting, and machine learning teams by ensuring reliable, clean, and accessible data from multiple sources.
+
+Responsibilities include developing ETL or ELT pipelines, integrating data from internal and external systems, designing data warehouse structures, optimizing SQL queries, maintaining data quality, building automated data workflows, and supporting data governance. The role requires strong understanding of databases, data modeling, and data pipeline reliability.
+
+Required skills include SQL, Python, ETL, ELT, data pipeline, data warehouse, data modeling, database management, data quality, query optimization, workflow automation, Airflow, dbt, Spark, BigQuery, Snowflake, PostgreSQL, and cloud platforms.
+
+Preferred skills include data lake, batch processing, streaming data, API integration, Docker, CI/CD, Git, monitoring data pipelines, and collaboration with analysts, data scientists, and business users.
+
+### ROLE: Business Intelligence Analyst
+CATEGORY: IT & Data
+DESCRIPTION:
+We are looking for a Business Intelligence Analyst who can develop dashboards, reporting systems, and business performance analysis to support management decisions. The candidate will translate business requirements into clear, interactive, and reliable BI solutions.
+
+Responsibilities include gathering reporting requirements, defining KPIs, preparing datasets, designing dashboards, analyzing business trends, automating reports, validating data accuracy, and presenting insights to stakeholders. The role requires a strong ability to combine business understanding with data visualization skills.
+
+Required skills include SQL, Power BI, Tableau, Excel, dashboard design, data visualization, KPI analysis, business intelligence, reporting automation, data cleaning, stakeholder communication, business analysis, and analytical thinking.
+
+Preferred skills include DAX, Power Query, data modeling, executive dashboard design, storytelling with data, performance monitoring, and experience in sales, finance, operations, HR, or customer analytics.
+
+### ROLE: Machine Learning Engineer
+CATEGORY: IT & AI
+DESCRIPTION:
+We are looking for a Machine Learning Engineer who can build, optimize, deploy, and maintain machine learning models for real-world applications. The candidate will work with data scientists, software engineers, and product teams to convert machine learning prototypes into reliable production systems.
+
+Responsibilities include building ML pipelines, preparing training data, developing models, tuning model performance, creating APIs for model serving, deploying models, monitoring model performance, and improving model scalability. The candidate should understand both machine learning concepts and software engineering practices.
+
+Required skills include Python, Scikit-learn, TensorFlow, PyTorch, machine learning, deep learning, feature engineering, model evaluation, model deployment, FastAPI, Docker, Git, API integration, cloud platforms, and MLOps.
+
+Preferred skills include model monitoring, data drift detection, CI/CD, experiment tracking, MLflow, Kubernetes, scalable inference, model optimization, and collaboration with engineering teams.
+
+### ROLE: AI Engineer
+CATEGORY: IT & AI
+DESCRIPTION:
+We are looking for an AI Engineer who can design and build AI-powered applications using machine learning, deep learning, natural language processing, computer vision, large language models, and generative AI technologies. The candidate will develop intelligent systems that can automate tasks, analyze content, answer questions, and support business workflows.
+
+Responsibilities include building AI prototypes, developing NLP and computer vision solutions, integrating LLMs into applications, creating retrieval augmented generation systems, working with embeddings and vector databases, evaluating model outputs, designing prompts, integrating APIs, and deploying AI applications for users.
+
+Required skills include Python, machine learning, deep learning, NLP, computer vision, LLM, RAG, vector database, LangChain, Hugging Face, embeddings, semantic search, prompt engineering, API integration, model evaluation, Streamlit, Gradio, FastAPI, and deployment.
+
+Preferred skills include OpenAI API, Gemini API, transformer models, BERT, Qwen, computer vision models, YOLO, CNN, document processing, chatbot development, AI agent development, and responsible AI understanding.
+
+### ROLE: Frontend Developer
+CATEGORY: IT & Software
+DESCRIPTION:
+We are looking for a Frontend Developer who can build responsive, user-friendly, and visually appealing web interfaces. The candidate will translate UI/UX designs into interactive web applications and collaborate with backend developers, designers, and product teams.
+
+Responsibilities include developing user interfaces, implementing responsive layouts, connecting frontend applications with APIs, optimizing page performance, handling user interactions, fixing UI bugs, maintaining reusable components, and ensuring cross-browser compatibility.
+
+Required skills include HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, responsive design, API integration, Git, UI/UX implementation, web performance optimization, component-based development, and debugging.
+
+Preferred skills include Figma implementation, state management, accessibility, form validation, authentication flow, dashboard UI development, and experience building modern web applications.
+
+### ROLE: Backend Developer
+CATEGORY: IT & Software
+DESCRIPTION:
+We are looking for a Backend Developer who can build secure, scalable, and reliable server-side applications, APIs, and database systems. The candidate will design backend logic, manage databases, integrate services, and ensure application performance.
+
+Responsibilities include developing REST APIs, implementing authentication and authorization, designing database schemas, optimizing queries, handling server-side business logic, integrating third-party services, debugging backend issues, and collaborating with frontend developers.
+
+Required skills include Python, JavaScript, Node.js, Express.js, Laravel, SQL, PostgreSQL, MySQL, REST API, authentication, database design, backend architecture, Git, Docker, and API documentation.
+
+Preferred skills include FastAPI, microservices, cloud deployment, caching, queue systems, security best practices, unit testing, CI/CD, and performance optimization.
+
+### ROLE: Software Engineer
+CATEGORY: IT & Software
+DESCRIPTION:
+We are looking for a Software Engineer who can design, develop, test, and maintain software applications. The candidate should be able to write clean code, solve technical problems, collaborate in development teams, and deliver reliable software solutions.
+
+Responsibilities include analyzing requirements, designing system logic, developing application features, debugging issues, writing tests, maintaining code quality, integrating APIs, working with databases, and participating in agile development processes.
+
+Required skills include programming, Python, JavaScript, Java, SQL, API development, database management, Git, software testing, debugging, problem solving, system design, and agile development.
+
+Preferred skills include web development, backend development, frontend development, cloud platforms, Docker, CI/CD, software architecture, and experience building end-to-end applications.
+
+### ROLE: QA Engineer
+CATEGORY: IT & Software
+DESCRIPTION:
+We are looking for a QA Engineer who can ensure software quality through manual and automated testing. The candidate will create test scenarios, execute test cases, identify bugs, document issues, and work with developers to improve product quality.
+
+Responsibilities include writing test plans, designing test cases, performing functional testing, regression testing, API testing, reporting bugs, verifying fixes, preparing QA documentation, and supporting release readiness.
+
+Required skills include manual testing, automation testing, test case design, bug tracking, API testing, Selenium, Postman, SQL, quality assurance, documentation, analytical thinking, and attention to detail.
+
+Preferred skills include performance testing, security testing basics, test automation frameworks, agile testing, Jira, and collaboration with product and engineering teams.
+
+### ROLE: Cybersecurity Analyst
+CATEGORY: IT & Security
+DESCRIPTION:
+We are looking for a Cybersecurity Analyst who can monitor security systems, detect threats, analyze incidents, and support security risk management. The candidate will help protect company systems, data, and infrastructure from cyber threats.
+
+Responsibilities include monitoring alerts, analyzing suspicious activities, performing vulnerability assessment, supporting incident response, preparing security reports, reviewing access controls, and improving security awareness.
+
+Required skills include network security, threat analysis, vulnerability assessment, incident response, SIEM, security monitoring, risk assessment, Linux, cybersecurity awareness, documentation, and analytical thinking.
+
+Preferred skills include penetration testing basics, firewall monitoring, endpoint security, cloud security, log analysis, compliance awareness, and security operations center experience.
+
+### ROLE: Product Analyst
+CATEGORY: IT & Product
+DESCRIPTION:
+We are looking for a Product Analyst who can analyze product performance, user behavior, customer journeys, and business metrics. The candidate will support product teams by providing insights to improve features, user experience, retention, and growth.
+
+Responsibilities include analyzing funnels, cohorts, retention, conversion rates, user segmentation, A/B testing results, product KPIs, and customer behavior. The candidate will create dashboards, prepare reports, and translate product data into actionable recommendations.
+
+Required skills include SQL, Python, Excel, data analysis, product metrics, funnel analysis, cohort analysis, A/B testing, dashboard development, user behavior analysis, stakeholder communication, and business insight.
+
+Preferred skills include event tracking, product analytics tools, experimentation, growth analytics, customer segmentation, and experience working with product managers or UX teams.
+
+### ROLE: IT Business Analyst
+CATEGORY: IT & Business
+DESCRIPTION:
+We are looking for an IT Business Analyst who can bridge business needs and technology solutions. The candidate will gather requirements, analyze business processes, document system needs, and coordinate with developers, testers, and stakeholders.
+
+Responsibilities include requirement gathering, creating business requirement documents, preparing user stories, mapping processes, supporting system testing, validating solutions, coordinating project communication, and ensuring the delivered system meets business needs.
+
+Required skills include business analysis, requirement gathering, process mapping, documentation, stakeholder communication, system analysis, user story writing, testing support, SQL basics, and problem solving.
+
+Preferred skills include Agile methodology, Jira, UAT coordination, API understanding, database concepts, dashboard requirements, and experience in digital transformation projects.
+
+### ROLE: Database Administrator
+CATEGORY: IT & Data
+DESCRIPTION:
+We are looking for a Database Administrator who can manage, maintain, secure, and optimize database systems. The candidate will ensure database availability, performance, backup, recovery, and data integrity.
+
+Responsibilities include database monitoring, query optimization, backup and restore management, user access control, database maintenance, troubleshooting, performance tuning, and supporting application teams.
+
+Required skills include SQL, database administration, PostgreSQL, MySQL, backup and recovery, query optimization, data security, database monitoring, indexing, troubleshooting, and documentation.
+
+Preferred skills include cloud databases, data warehouse, replication, high availability, stored procedures, and performance tuning.

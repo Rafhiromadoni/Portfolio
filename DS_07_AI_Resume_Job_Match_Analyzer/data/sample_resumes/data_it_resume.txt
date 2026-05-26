@@ -1,0 +1,5 @@
+Candidate is a data and IT-oriented graduate with experience in data analysis, machine learning, dashboard development, and web application development. The candidate has strong skills in Python, SQL, Pandas, NumPy, Scikit-learn, Tableau, Power BI, Streamlit, FastAPI, React, Next.js, Laravel, and database management.
+
+Project experience includes credit risk scoring, retail sales forecasting, customer churn prediction, recommendation system, e-commerce analytics, HR attrition dashboard, marketing A/B testing, and AI knowledge agent. The candidate is familiar with data preprocessing, feature engineering, model training, model evaluation, visualization, API integration, and deployment.
+
+The candidate is interested in Data Analyst, Data Scientist, Business Intelligence Analyst, AI Engineer, and Machine Learning Engineer roles.

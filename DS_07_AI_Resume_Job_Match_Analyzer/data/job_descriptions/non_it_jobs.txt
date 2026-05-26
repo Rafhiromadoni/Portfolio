@@ -1,0 +1,219 @@
+### ROLE: Business Analyst
+CATEGORY: Business
+DESCRIPTION:
+We are looking for a Business Analyst who can analyze business processes, gather requirements, identify problems, and recommend practical solutions. The candidate will work with stakeholders to understand business needs, document processes, and support improvement initiatives.
+
+Responsibilities include requirement gathering, process mapping, business documentation, data analysis, preparing reports, identifying inefficiencies, coordinating with cross-functional teams, and presenting recommendations to management.
+
+Required skills include business analysis, requirement gathering, process mapping, documentation, stakeholder communication, problem solving, Excel, data analysis, reporting, presentation skills, analytical thinking, and business understanding.
+
+Preferred skills include project coordination, dashboard understanding, UAT support, operational analysis, KPI monitoring, and experience working with technology or process improvement projects.
+
+### ROLE: Digital Marketing Specialist
+CATEGORY: Marketing
+DESCRIPTION:
+We are looking for a Digital Marketing Specialist who can plan, execute, monitor, and optimize digital marketing campaigns across multiple online channels. The candidate will support brand awareness, lead generation, engagement, and campaign performance improvement.
+
+Responsibilities include managing social media campaigns, creating content plans, monitoring paid ads, analyzing campaign metrics, preparing performance reports, optimizing SEO content, coordinating creative materials, and identifying audience insights.
+
+Required skills include digital marketing, social media marketing, Google Ads, SEO, content marketing, campaign analysis, copywriting, analytics, reporting, creativity, communication, and audience research.
+
+Preferred skills include Meta Ads, Google Analytics, email marketing, content strategy, marketing automation, A/B testing, branding, and basic design tools.
+
+### ROLE: Human Resources Officer
+CATEGORY: Human Resources
+DESCRIPTION:
+We are looking for a Human Resources Officer who can support recruitment, employee administration, onboarding, HR documentation, employee relations, and training activities. The candidate will help maintain smooth HR operations and employee support.
+
+Responsibilities include screening candidates, coordinating interviews, preparing onboarding documents, maintaining employee records, supporting HR administration, assisting training programs, preparing HR reports, and communicating with employees.
+
+Required skills include recruitment, interview coordination, HR administration, onboarding, employee relations, training coordination, communication, documentation, Microsoft Office, organization, and attention to detail.
+
+Preferred skills include HRIS, payroll administration basics, employee engagement, training evaluation, labor regulation awareness, and people management support.
+
+### ROLE: Recruitment Specialist
+CATEGORY: Human Resources
+DESCRIPTION:
+We are looking for a Recruitment Specialist who can manage end-to-end hiring processes, source candidates, screen resumes, conduct interviews, coordinate with hiring managers, and improve recruitment efficiency.
+
+Responsibilities include posting job vacancies, sourcing candidates, screening CVs, conducting initial interviews, scheduling interviews, managing candidate pipelines, preparing recruitment reports, and maintaining communication with applicants.
+
+Required skills include recruitment, talent acquisition, candidate screening, interview coordination, communication, negotiation, HR administration, documentation, Microsoft Office, and stakeholder management.
+
+Preferred skills include LinkedIn recruiting, applicant tracking systems, employer branding, behavioral interviewing, and recruitment analytics.
+
+### ROLE: Training and Development Officer
+CATEGORY: Human Resources
+DESCRIPTION:
+We are looking for a Training and Development Officer who can support employee learning programs, training coordination, materials preparation, and training evaluation. The candidate will help improve employee capability and organizational development.
+
+Responsibilities include identifying training needs, preparing training schedules, coordinating trainers and participants, creating training materials, monitoring attendance, evaluating training effectiveness, and preparing learning reports.
+
+Required skills include training coordination, learning development, communication, documentation, presentation, employee development, evaluation, organization, Microsoft Office, and coordination.
+
+Preferred skills include instructional design, e-learning, competency mapping, employee engagement, and training analytics.
+
+### ROLE: Finance Analyst
+CATEGORY: Finance
+DESCRIPTION:
+We are looking for a Finance Analyst who can analyze financial data, prepare financial reports, monitor budgets, and support business decision-making. The candidate will help management understand financial performance and identify cost or revenue opportunities.
+
+Responsibilities include financial analysis, budgeting, forecasting, variance analysis, financial reporting, preparing management reports, monitoring financial performance, analyzing cost structures, and supporting planning activities.
+
+Required skills include financial analysis, budgeting, forecasting, Excel, accounting basics, financial reporting, variance analysis, data analysis, attention to detail, business understanding, and reporting.
+
+Preferred skills include financial modeling, Power BI, ERP systems, profitability analysis, cost control, and business planning.
+
+### ROLE: Accounting Staff
+CATEGORY: Finance
+DESCRIPTION:
+We are looking for Accounting Staff who can support daily accounting operations, transaction recording, reconciliation, invoice checking, payment documentation, and financial administration.
+
+Responsibilities include recording transactions, checking invoices, preparing journal entries, reconciling accounts, maintaining financial documents, supporting month-end closing, and assisting financial reports.
+
+Required skills include accounting, bookkeeping, reconciliation, invoice processing, Excel, financial documentation, attention to detail, data entry, administration, and accuracy.
+
+Preferred skills include tax basics, ERP systems, accounts payable, accounts receivable, and financial reporting.
+
+### ROLE: Operations Analyst
+CATEGORY: Operations
+DESCRIPTION:
+We are looking for an Operations Analyst who can analyze operational processes, monitor performance metrics, identify inefficiencies, and recommend improvements. The candidate will support operational decision-making through data and process analysis.
+
+Responsibilities include monitoring KPIs, analyzing workflow performance, preparing operational reports, identifying process bottlenecks, supporting process improvement initiatives, coordinating with teams, and documenting findings.
+
+Required skills include operations analysis, process improvement, KPI monitoring, Excel, data analysis, reporting, problem solving, communication, business process understanding, and documentation.
+
+Preferred skills include dashboard usage, forecasting, resource planning, quality improvement, and operational excellence.
+
+### ROLE: Project Coordinator
+CATEGORY: Project Management
+DESCRIPTION:
+We are looking for a Project Coordinator who can support project planning, scheduling, documentation, communication, and task tracking. The candidate will assist project managers in ensuring project activities are organized and delivered on time.
+
+Responsibilities include preparing project schedules, tracking task progress, coordinating meetings, documenting meeting notes, following up action items, preparing project reports, and communicating with internal and external stakeholders.
+
+Required skills include project coordination, scheduling, documentation, communication, task tracking, stakeholder management, Microsoft Office, reporting, organization, and problem solving.
+
+Preferred skills include project management tools, Agile basics, risk tracking, timeline monitoring, vendor coordination, and administrative support.
+
+### ROLE: Management Trainee
+CATEGORY: Business
+DESCRIPTION:
+We are looking for a Management Trainee who is eager to learn business operations, support cross-functional projects, analyze performance, and contribute to process improvement. The candidate will rotate across departments and develop leadership and business management capabilities.
+
+Responsibilities include supporting business operations, participating in projects, analyzing reports, preparing presentations, coordinating tasks, learning company processes, and proposing improvement ideas.
+
+Required skills include leadership potential, analytical thinking, communication, problem solving, teamwork, adaptability, Microsoft Office, business understanding, project support, and willingness to learn.
+
+Preferred skills include data analysis, presentation skills, organizational experience, process improvement, and strong initiative.
+
+### ROLE: Customer Success Specialist
+CATEGORY: Customer Success
+DESCRIPTION:
+We are looking for a Customer Success Specialist who can support customers, understand their needs, resolve issues, improve satisfaction, and help customers gain value from products or services.
+
+Responsibilities include onboarding customers, handling inquiries, resolving problems, monitoring customer satisfaction, preparing reports, maintaining relationships, escalating issues, and collaborating with internal teams.
+
+Required skills include customer communication, problem solving, relationship management, product knowledge, reporting, empathy, customer support, onboarding, service orientation, and communication.
+
+Preferred skills include CRM tools, account management, customer retention, feedback analysis, and presentation skills.
+
+### ROLE: Sales Executive
+CATEGORY: Sales
+DESCRIPTION:
+We are looking for a Sales Executive who can identify prospects, build customer relationships, present products, negotiate deals, and achieve sales targets. The candidate will support revenue growth through strong communication and business development activities.
+
+Responsibilities include prospecting leads, contacting potential customers, presenting products or services, following up opportunities, negotiating terms, maintaining CRM records, preparing sales reports, and achieving targets.
+
+Required skills include sales, negotiation, communication, prospecting, customer relationship management, presentation, target achievement, product knowledge, business development, and persuasion.
+
+Preferred skills include B2B sales, account management, market research, pipeline management, and closing skills.
+
+### ROLE: Administrative Officer
+CATEGORY: Administration
+DESCRIPTION:
+We are looking for an Administrative Officer who can manage documents, support office operations, handle scheduling, maintain records, and assist daily administrative activities.
+
+Responsibilities include organizing documents, scheduling meetings, preparing reports, managing correspondence, supporting procurement or office needs, maintaining records, handling data entry, and assisting internal teams.
+
+Required skills include administration, documentation, scheduling, Microsoft Office, data entry, communication, organization, attention to detail, office management, and reporting.
+
+Preferred skills include filing systems, procurement administration, travel arrangement, basic finance administration, and office coordination.
+
+### ROLE: Content Specialist
+CATEGORY: Creative & Content
+DESCRIPTION:
+We are looking for a Content Specialist who can create, edit, manage, and optimize content for digital platforms. The candidate should understand audience needs, brand communication, and content performance.
+
+Responsibilities include writing content, editing copy, planning content calendars, conducting research, managing social media content, supporting campaigns, analyzing content performance, and ensuring brand consistency.
+
+Required skills include content writing, copywriting, editing, social media, creativity, communication, content planning, SEO basics, research, storytelling, and attention to detail.
+
+Preferred skills include graphic design basics, video content, analytics, digital marketing, campaign support, and brand communication.
+
+### ROLE: Supply Chain Analyst
+CATEGORY: Supply Chain
+DESCRIPTION:
+We are looking for a Supply Chain Analyst who can analyze inventory, logistics, procurement, demand planning, and supplier performance to improve supply chain efficiency.
+
+Responsibilities include analyzing inventory levels, monitoring logistics performance, preparing supply chain reports, forecasting demand, supporting procurement decisions, tracking vendor performance, identifying inefficiencies, and recommending improvements.
+
+Required skills include supply chain analysis, inventory planning, logistics, procurement, demand forecasting, Excel, data analysis, KPI monitoring, reporting, problem solving, and communication.
+
+Preferred skills include ERP systems, warehouse management, cost analysis, vendor management, operational planning, and dashboard reporting.
+
+### ROLE: Procurement Staff
+CATEGORY: Procurement
+DESCRIPTION:
+We are looking for Procurement Staff who can support purchasing activities, vendor coordination, price comparison, documentation, and procurement reporting. The candidate will help ensure goods and services are purchased efficiently and according to company needs.
+
+Responsibilities include preparing purchase requests, comparing vendor quotations, coordinating with suppliers, checking documents, monitoring purchase orders, maintaining procurement records, and preparing reports.
+
+Required skills include procurement, vendor management, negotiation, documentation, Excel, reporting, attention to detail, communication, administration, and price comparison.
+
+Preferred skills include contract administration, supplier evaluation, purchasing systems, inventory coordination, and cost control.
+
+### ROLE: Public Relations Officer
+CATEGORY: Communication
+DESCRIPTION:
+We are looking for a Public Relations Officer who can manage communication strategies, media relations, press releases, events, and brand reputation. The candidate will support internal and external communication activities.
+
+Responsibilities include writing press releases, coordinating media communication, preparing communication materials, managing events, monitoring public perception, supporting crisis communication, and maintaining stakeholder relationships.
+
+Required skills include public relations, communication, writing, media relations, event coordination, stakeholder communication, presentation, creativity, crisis communication, and relationship building.
+
+Preferred skills include corporate communication, social media, branding, content writing, and media monitoring.
+
+### ROLE: Legal Staff
+CATEGORY: Legal
+DESCRIPTION:
+We are looking for Legal Staff who can support legal documentation, contract review, compliance monitoring, and administrative legal processes. The candidate will assist in ensuring company activities comply with regulations.
+
+Responsibilities include preparing legal documents, reviewing agreements, maintaining legal records, supporting compliance activities, coordinating with external parties, and preparing legal reports.
+
+Required skills include legal documentation, contract review, compliance, administration, attention to detail, communication, research, Microsoft Office, and analytical thinking.
+
+Preferred skills include corporate law basics, licensing, regulatory compliance, legal drafting, and risk awareness.
+
+### ROLE: Secretary
+CATEGORY: Administration
+DESCRIPTION:
+We are looking for a Secretary who can support executives or departments through scheduling, correspondence, documentation, meeting preparation, and administrative coordination.
+
+Responsibilities include managing calendars, arranging meetings, preparing minutes of meetings, organizing documents, handling correspondence, coordinating travel arrangements, and supporting office communication.
+
+Required skills include scheduling, documentation, administration, communication, Microsoft Office, organization, attention to detail, meeting coordination, and professionalism.
+
+Preferred skills include executive support, correspondence writing, office management, and multitasking.
+
+### ROLE: Customer Service Officer
+CATEGORY: Customer Service
+DESCRIPTION:
+We are looking for a Customer Service Officer who can respond to customer inquiries, resolve complaints, provide product or service information, and maintain customer satisfaction.
+
+Responsibilities include handling customer questions, recording complaints, escalating issues, providing accurate information, maintaining service quality, updating customer records, and preparing service reports.
+
+Required skills include customer service, communication, problem solving, empathy, product knowledge, complaint handling, documentation, service orientation, and patience.
+
+Preferred skills include CRM tools, call center experience, customer satisfaction analysis, and conflict resolution.

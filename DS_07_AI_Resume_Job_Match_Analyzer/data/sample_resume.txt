@@ -1,0 +1,14 @@
+Rafhiromadoni Sopandi is an Informatics graduate with a specialization in Data Science and Intelligent Systems. She has strong interest in data analytics, business intelligence, machine learning, artificial intelligence, dashboard development, and data-driven decision-making.
+
+She has experience as a Data Analyst Intern at BPH Migas, where she worked on data cleaning, data transformation, data integration, exploratory data analysis, and interactive dashboard development using Tableau. She created dashboards to monitor business metrics, registration status, operational indicators, and reporting performance. She also transformed raw data into clear visual reports and actionable insights for stakeholders.
+
+Her technical skills include Python, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Tableau, Power BI, Microsoft Excel, data visualization, dashboard development, exploratory data analysis, ETL, machine learning, classification, regression, forecasting, clustering, statistical analysis, feature engineering, model evaluation, and business intelligence.
+
+She has developed several projects including credit risk scoring, retail sales forecasting, customer churn prediction, recommendation systems, e-commerce sales analytics dashboard, HR employee attrition analytics dashboard, marketing A/B testing analysis, AI-powered knowledge agent, computer vision image classification, and sentiment monitoring system.
+
+She also has experience in web and application development using React, Next.js, Laravel, Express.js, FastAPI, and Streamlit. She understands frontend and backend workflows, API integration, database usage, and project implementation.
+
+Her soft skills include analytical thinking, problem solving, communication, teamwork, adaptability, attention to detail, documentation, project coordination, and willingness to learn. She is able to understand business problems, translate them into analytical tasks, and communicate findings to both technical and non-technical audiences.
+
+Education:
+Bachelor of Informatics, Telkom University, specialization in Data Science and Intelligent Systems.
