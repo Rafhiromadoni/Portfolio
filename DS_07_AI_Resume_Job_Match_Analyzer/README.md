@@ -25,7 +25,17 @@ This project helps answer:
 - How can the resume be improved for better job alignment?
 
 ---
+## App Preview
 
+### Input Page
+
+![App Preview](./visualization/App_Preview.png)
+
+### Match Result Page
+
+![Result Preview 1](./visualization/Result_Preview1.png)
+
+![Result Preview 2](./visualization/Result_Preview2.png)
 ## Objectives
 
 The objectives of this project are:
